@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="float: right; margin-left: 10px;">
-  <img src="/assets/images/out2.jpg" width="385" height="290" />
+  <img src="{{site.baseurl}}/assets/images/out2.jpg" width="385" height="290" />
   <p style="text-align: center; font-size: 12px; font-style: italic;">Crater Lake, OR from <a href="https://oregonstateflyingclub.org/aircraft/n66083.php">N66083</a>.</p>
 </div>
 
